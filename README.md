@@ -1,4 +1,4 @@
-# pfe-project
+# qcm-creator
 
 -npm install
 -composer update
